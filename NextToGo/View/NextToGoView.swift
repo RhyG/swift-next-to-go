@@ -8,13 +8,45 @@
 import SwiftUI
 
 struct NextToGoView: View {
+    @StateObject var nextToGoListVM: NextToGoListViewModel
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            VStack(alignment: .leading) {
+                HStack {
+                    ForEach(Constants.CategoryID.allCases, id: \.self) { categoryId in
+                        Checkbox(
+                            isChecked: nextToGoListVM.activeFilters.contains(categoryId),
+                            categoryId: categoryId,
+                            action: { nextToGoListVM.toggleFilter(categoryId) }
+                        )
+                    }
+                }
+                .padding(.bottom, 20)
+                
+                ScrollView {
+                    ForEach(nextToGoListVM.filteredRaces, id: \.raceId) { race in
+                        NavigationLink {
+                            Text("RaceScreen")
+                        } label: {
+                            NextToGoRowView(race: race)
+                        }
+                    }
+                }
+                .refreshable(action: nextToGoListVM.fetchRaces)
+                .task {
+                    await nextToGoListVM.fetchRaces()
+                }
+                
+            }
+            .padding()
+            .navigationTitle("Next To Go")
+        }
     }
 }
 
 struct NextToGoView_Previews: PreviewProvider {
     static var previews: some View {
-        NextToGoView()
+        NextToGoView(nextToGoListVM: NextToGoListViewModel())
     }
 }

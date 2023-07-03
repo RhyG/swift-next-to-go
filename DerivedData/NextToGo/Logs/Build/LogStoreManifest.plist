@@ -142,6 +142,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0249E80E-F62B-4488-BA27-1A9C758A0146</string>
 		</dict>
+		<key>025179A2-364E-42DD-8916-4DA052F0AE03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>025179A2-364E-42DD-8916-4DA052F0AE03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710061725.24594498</real>
+			<key>timeStoppedRecording</key>
+			<real>710061726.62304699</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>025179A2-364E-42DD-8916-4DA052F0AE03</string>
+		</dict>
 		<key>03CD1D5D-4F56-4F56-8B70-5B1B1367142D</key>
 		<dict>
 			<key>className</key>
@@ -448,6 +482,40 @@
 			<key>uniqueIdentifier</key>
 			<string>0AE16376-014F-4C94-BBE3-5E7947C9C56A</string>
 		</dict>
+		<key>0B2B67C9-9A45-48CD-8799-2416A9407B8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B2B67C9-9A45-48CD-8799-2416A9407B8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057070.22837305</real>
+			<key>timeStoppedRecording</key>
+			<real>710057071.40997696</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>0B2B67C9-9A45-48CD-8799-2416A9407B8D</string>
+		</dict>
 		<key>0C35AF76-3756-4D4E-B29C-ACDDBB7E0B77</key>
 		<dict>
 			<key>className</key>
@@ -481,6 +549,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>0C35AF76-3756-4D4E-B29C-ACDDBB7E0B77</string>
+		</dict>
+		<key>0D45789E-909C-42AB-B5B8-4BA1FCB8EE59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D45789E-909C-42AB-B5B8-4BA1FCB8EE59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060763.79025698</real>
+			<key>timeStoppedRecording</key>
+			<real>710060765.10388196</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>0D45789E-909C-42AB-B5B8-4BA1FCB8EE59</string>
 		</dict>
 		<key>0DAA13C2-013D-40A6-8328-DB33F2480EF3</key>
 		<dict>
@@ -584,6 +686,40 @@
 			<key>uniqueIdentifier</key>
 			<string>11EBE5D4-6EA9-44A4-A110-F4DB55D74836</string>
 		</dict>
+		<key>12A51119-AFF2-4E07-AC5C-E10D11C0094A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12A51119-AFF2-4E07-AC5C-E10D11C0094A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059019.351138</real>
+			<key>timeStoppedRecording</key>
+			<real>710059020.58805895</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>12A51119-AFF2-4E07-AC5C-E10D11C0094A</string>
+		</dict>
 		<key>1492F4F6-1039-42B2-8283-7CCA2FB56C01</key>
 		<dict>
 			<key>className</key>
@@ -618,6 +754,40 @@
 			<key>uniqueIdentifier</key>
 			<string>1492F4F6-1039-42B2-8283-7CCA2FB56C01</string>
 		</dict>
+		<key>155D4B59-1459-4143-9367-F026D961732E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>155D4B59-1459-4143-9367-F026D961732E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710061651.07218099</real>
+			<key>timeStoppedRecording</key>
+			<real>710061653.07193005</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>155D4B59-1459-4143-9367-F026D961732E</string>
+		</dict>
 		<key>165C3925-137F-4743-B954-1FC5BA6DAD58</key>
 		<dict>
 			<key>className</key>
@@ -651,6 +821,40 @@
 			<string>Build NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>165C3925-137F-4743-B954-1FC5BA6DAD58</string>
+		</dict>
+		<key>171E5EF9-2FA4-44AF-85C1-1D0537BA068B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>171E5EF9-2FA4-44AF-85C1-1D0537BA068B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056383.87968898</real>
+			<key>timeStoppedRecording</key>
+			<real>710056385.20186698</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>171E5EF9-2FA4-44AF-85C1-1D0537BA068B</string>
 		</dict>
 		<key>18C9D05F-F73F-4A30-ADD1-3B08CC1062F9</key>
 		<dict>
@@ -1502,6 +1706,40 @@
 			<key>uniqueIdentifier</key>
 			<string>2B85AC14-3C57-4808-B8A2-43CDDA450466</string>
 		</dict>
+		<key>2BE7F773-70C2-4E5A-AD0F-ED4167153BD0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2BE7F773-70C2-4E5A-AD0F-ED4167153BD0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056968.03388906</real>
+			<key>timeStoppedRecording</key>
+			<real>710056969.42995906</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>2BE7F773-70C2-4E5A-AD0F-ED4167153BD0</string>
+		</dict>
 		<key>2C22F940-3F78-4CF9-8A8D-C241F397ABAA</key>
 		<dict>
 			<key>className</key>
@@ -1740,6 +1978,40 @@
 			<key>uniqueIdentifier</key>
 			<string>319EF5C5-3B91-4E57-9F65-6A3A88CB1614</string>
 		</dict>
+		<key>321F120C-74F3-4FE6-BAE3-71FB2CAA66FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>321F120C-74F3-4FE6-BAE3-71FB2CAA66FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060817.89684904</real>
+			<key>timeStoppedRecording</key>
+			<real>710060819.24121106</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>321F120C-74F3-4FE6-BAE3-71FB2CAA66FF</string>
+		</dict>
 		<key>324F14B1-8EB8-413B-BD21-35DD0E13DE08</key>
 		<dict>
 			<key>className</key>
@@ -1773,6 +2045,40 @@
 			<string>Build NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>324F14B1-8EB8-413B-BD21-35DD0E13DE08</string>
+		</dict>
+		<key>326B938B-B6D1-4E33-95CE-6D3ADED8DBA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>326B938B-B6D1-4E33-95CE-6D3ADED8DBA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056875.58560801</real>
+			<key>timeStoppedRecording</key>
+			<real>710056877.01495504</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>326B938B-B6D1-4E33-95CE-6D3ADED8DBA0</string>
 		</dict>
 		<key>32902709-695C-44FE-97ED-2E8B7EBA9A74</key>
 		<dict>
@@ -1808,6 +2114,40 @@
 			<key>uniqueIdentifier</key>
 			<string>32902709-695C-44FE-97ED-2E8B7EBA9A74</string>
 		</dict>
+		<key>33365A31-4E39-4AE2-BBAD-A8A5B09C1030</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33365A31-4E39-4AE2-BBAD-A8A5B09C1030.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060106.25216198</real>
+			<key>timeStoppedRecording</key>
+			<real>710060107.56542695</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>33365A31-4E39-4AE2-BBAD-A8A5B09C1030</string>
+		</dict>
 		<key>33AA571C-DAA8-4B47-944F-79CAA3FF3DE7</key>
 		<dict>
 			<key>className</key>
@@ -1841,6 +2181,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>33AA571C-DAA8-4B47-944F-79CAA3FF3DE7</string>
+		</dict>
+		<key>33F89F3B-7404-4565-887D-2C5CD252B02D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33F89F3B-7404-4565-887D-2C5CD252B02D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057606.27040195</real>
+			<key>timeStoppedRecording</key>
+			<real>710057607.51506305</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>33F89F3B-7404-4565-887D-2C5CD252B02D</string>
 		</dict>
 		<key>361AB91E-032D-4209-8632-04D789DD8FC8</key>
 		<dict>
@@ -1909,6 +2283,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>36AB3E38-35B1-4CFA-A7C6-D2571DB9F0EA</string>
+		</dict>
+		<key>36DD232E-D22B-4437-B235-EDE240F40B05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36DD232E-D22B-4437-B235-EDE240F40B05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057824.61103201</real>
+			<key>timeStoppedRecording</key>
+			<real>710057825.73716497</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>36DD232E-D22B-4437-B235-EDE240F40B05</string>
 		</dict>
 		<key>371FA016-1AB3-4338-8D15-0A8C301C2DC6</key>
 		<dict>
@@ -2045,6 +2453,40 @@
 			<string>Build NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>37D8E216-7B84-48F3-AB8C-0E5987D3B426</string>
+		</dict>
+		<key>386A478D-16CE-4528-98E5-182D8FA98137</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>386A478D-16CE-4528-98E5-182D8FA98137.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060325.44835305</real>
+			<key>timeStoppedRecording</key>
+			<real>710060327.143839</real>
+			<key>title</key>
+			<string>Build for Previews NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>386A478D-16CE-4528-98E5-182D8FA98137</string>
 		</dict>
 		<key>38E23B1C-C3CC-4A21-9C64-DE5C08BB9A59</key>
 		<dict>
@@ -2352,6 +2794,40 @@
 			<key>uniqueIdentifier</key>
 			<string>3CE08EFE-A368-497A-85E7-F36BB9C58F69</string>
 		</dict>
+		<key>3DC3640C-F6B8-493B-9BB3-F017B95B2C8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3DC3640C-F6B8-493B-9BB3-F017B95B2C8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710058872.38721097</real>
+			<key>timeStoppedRecording</key>
+			<real>710058873.77497494</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>3DC3640C-F6B8-493B-9BB3-F017B95B2C8D</string>
+		</dict>
 		<key>3EF38B68-FD90-4546-B88B-B1D0F56DF44B</key>
 		<dict>
 			<key>className</key>
@@ -2487,6 +2963,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>40F8C503-11D0-4E1C-B066-82E1A9455661</string>
+		</dict>
+		<key>411FA464-9D85-44D0-948D-A07B786D9B8B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>411FA464-9D85-44D0-948D-A07B786D9B8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055942.87511301</real>
+			<key>timeStoppedRecording</key>
+			<real>710055943.144629</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>411FA464-9D85-44D0-948D-A07B786D9B8B</string>
 		</dict>
 		<key>4132BAD7-1EB5-4752-B7CB-E9555AA346AF</key>
 		<dict>
@@ -2828,6 +3338,108 @@
 			<key>uniqueIdentifier</key>
 			<string>439BF0DA-E96A-4943-AC9C-3D8865F2CC4E</string>
 		</dict>
+		<key>4604E6CC-CF34-446A-A985-41338E081BD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4604E6CC-CF34-446A-A985-41338E081BD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060550.44697404</real>
+			<key>timeStoppedRecording</key>
+			<real>710060551.78192902</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>4604E6CC-CF34-446A-A985-41338E081BD4</string>
+		</dict>
+		<key>46B34235-F162-444F-90C7-C7ED3D95EF17</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46B34235-F162-444F-90C7-C7ED3D95EF17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060826.729792</real>
+			<key>timeStoppedRecording</key>
+			<real>710060828.08270597</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>46B34235-F162-444F-90C7-C7ED3D95EF17</string>
+		</dict>
+		<key>47AAD5C2-AA0B-4F3C-9B56-6CB62F084DD7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47AAD5C2-AA0B-4F3C-9B56-6CB62F084DD7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057052.50513697</real>
+			<key>timeStoppedRecording</key>
+			<real>710057053.65221202</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>47AAD5C2-AA0B-4F3C-9B56-6CB62F084DD7</string>
+		</dict>
 		<key>48E5215C-612E-4CE9-9598-4CE76AD452CB</key>
 		<dict>
 			<key>className</key>
@@ -2997,6 +3609,40 @@
 			<string>Build NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>4A07697F-98F9-4D22-B7CC-DFD9B26B889A</string>
+		</dict>
+		<key>4B60592F-934B-4713-A537-16E77B0548B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4B60592F-934B-4713-A537-16E77B0548B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059161.75195599</real>
+			<key>timeStoppedRecording</key>
+			<real>710059163.19933498</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>4B60592F-934B-4713-A537-16E77B0548B7</string>
 		</dict>
 		<key>4C05D7D9-2911-4892-8FED-A826BF86EF8B</key>
 		<dict>
@@ -3202,6 +3848,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4DBC2A77-0662-4A4D-B2E5-35F47D850F7B</string>
 		</dict>
+		<key>4E92C8BD-9CFB-4AC4-8828-4380F224B5FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E92C8BD-9CFB-4AC4-8828-4380F224B5FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057738.553635</real>
+			<key>timeStoppedRecording</key>
+			<real>710057739.81114399</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>4E92C8BD-9CFB-4AC4-8828-4380F224B5FB</string>
+		</dict>
 		<key>4F1F78A5-49B2-48E2-AF2A-C500D634828A</key>
 		<dict>
 			<key>className</key>
@@ -3338,6 +4018,74 @@
 			<key>uniqueIdentifier</key>
 			<string>509028F0-7E90-405E-8237-E289E297977F</string>
 		</dict>
+		<key>5127BDA4-3D62-45E8-927D-841EEA1E9337</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5127BDA4-3D62-45E8-927D-841EEA1E9337.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057191.19939494</real>
+			<key>timeStoppedRecording</key>
+			<real>710057191.63370597</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>5127BDA4-3D62-45E8-927D-841EEA1E9337</string>
+		</dict>
+		<key>520C305E-DC84-46E4-8F80-21FECB82C3E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>520C305E-DC84-46E4-8F80-21FECB82C3E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060356.453668</real>
+			<key>timeStoppedRecording</key>
+			<real>710060357.58198297</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>520C305E-DC84-46E4-8F80-21FECB82C3E4</string>
+		</dict>
 		<key>527B3F75-7864-4F9A-87A0-1228D7984901</key>
 		<dict>
 			<key>className</key>
@@ -3371,6 +4119,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>527B3F75-7864-4F9A-87A0-1228D7984901</string>
+		</dict>
+		<key>541082FC-9433-4C60-BB11-683963847386</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>541082FC-9433-4C60-BB11-683963847386.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710054683.31759095</real>
+			<key>timeStoppedRecording</key>
+			<real>710054691.21312702</real>
+			<key>title</key>
+			<string>Build for Previews NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>541082FC-9433-4C60-BB11-683963847386</string>
 		</dict>
 		<key>55B35983-2CA1-454C-A5FD-918FD9CB4C41</key>
 		<dict>
@@ -3473,6 +4255,74 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>57290143-86EE-476A-948E-91989C10E71D</string>
+		</dict>
+		<key>57EECB5D-F2FF-44FB-A966-376C6C2802B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57EECB5D-F2FF-44FB-A966-376C6C2802B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057279.07808399</real>
+			<key>timeStoppedRecording</key>
+			<real>710057280.54072702</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>57EECB5D-F2FF-44FB-A966-376C6C2802B5</string>
+		</dict>
+		<key>57F979D9-D59D-4713-8BAD-B7E68D538A38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57F979D9-D59D-4713-8BAD-B7E68D538A38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059934.38340604</real>
+			<key>timeStoppedRecording</key>
+			<real>710059935.73524594</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>57F979D9-D59D-4713-8BAD-B7E68D538A38</string>
 		</dict>
 		<key>583A47D9-818C-490F-8131-63791502614F</key>
 		<dict>
@@ -3609,6 +4459,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>59120E71-F17C-476C-9460-B10975554ED9</string>
+		</dict>
+		<key>59DAF483-82E1-4164-BCAC-230B8E965C8D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59DAF483-82E1-4164-BCAC-230B8E965C8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055759.40366697</real>
+			<key>timeStoppedRecording</key>
+			<real>710055761.11787796</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>59DAF483-82E1-4164-BCAC-230B8E965C8D</string>
 		</dict>
 		<key>5A12B3F7-D484-4FCC-9F3C-6CCF1BF7746C</key>
 		<dict>
@@ -4086,6 +4970,40 @@
 			<key>uniqueIdentifier</key>
 			<string>647F435A-B138-4BDA-9C4F-68AA40662E29</string>
 		</dict>
+		<key>65730DBF-DB3A-44CA-BF9F-A2E271986A5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65730DBF-DB3A-44CA-BF9F-A2E271986A5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055919.45507395</real>
+			<key>timeStoppedRecording</key>
+			<real>710055921.07520294</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>65730DBF-DB3A-44CA-BF9F-A2E271986A5E</string>
+		</dict>
 		<key>66486158-B8C1-49A5-AE00-17A657310F52</key>
 		<dict>
 			<key>className</key>
@@ -4426,6 +5344,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6ADBDAA7-544A-4F65-AE68-43DDDE819372</string>
 		</dict>
+		<key>6BA2EFDD-9BB3-4982-9F5F-76C2FBBC4271</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BA2EFDD-9BB3-4982-9F5F-76C2FBBC4271.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057007.98299503</real>
+			<key>timeStoppedRecording</key>
+			<real>710057009.229617</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>6BA2EFDD-9BB3-4982-9F5F-76C2FBBC4271</string>
+		</dict>
 		<key>6BDB3AD7-F60E-498F-9600-FB2C1D0C52B5</key>
 		<dict>
 			<key>className</key>
@@ -4664,6 +5616,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6D288BCD-2334-4A19-86EE-82F9C59A6354</string>
 		</dict>
+		<key>6D8B8A67-755B-44BB-AFA9-B9339B22DCCC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D8B8A67-755B-44BB-AFA9-B9339B22DCCC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056362.82602704</real>
+			<key>timeStoppedRecording</key>
+			<real>710056363.50472498</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>6D8B8A67-755B-44BB-AFA9-B9339B22DCCC</string>
+		</dict>
 		<key>6E749E29-1542-4479-93E8-645FDBEBB69C</key>
 		<dict>
 			<key>className</key>
@@ -4766,6 +5752,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6F25EC51-A62A-4062-94AD-9025933CC229</string>
 		</dict>
+		<key>70A4F8DB-E485-4746-B8C8-6B7E95836ACF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70A4F8DB-E485-4746-B8C8-6B7E95836ACF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056809.12176895</real>
+			<key>timeStoppedRecording</key>
+			<real>710056810.69002998</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>70A4F8DB-E485-4746-B8C8-6B7E95836ACF</string>
+		</dict>
 		<key>71766014-834E-40C0-A6A5-194DA0843AA2</key>
 		<dict>
 			<key>className</key>
@@ -4800,6 +5820,40 @@
 			<key>uniqueIdentifier</key>
 			<string>71766014-834E-40C0-A6A5-194DA0843AA2</string>
 		</dict>
+		<key>71A05E86-A5BB-4171-A7CC-A455BA0E1A9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71A05E86-A5BB-4171-A7CC-A455BA0E1A9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055554.70461702</real>
+			<key>timeStoppedRecording</key>
+			<real>710055556.039675</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>71A05E86-A5BB-4171-A7CC-A455BA0E1A9C</string>
+		</dict>
 		<key>71FF89F7-4EDE-4F6E-A800-3CC538BFEC34</key>
 		<dict>
 			<key>className</key>
@@ -4833,6 +5887,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>71FF89F7-4EDE-4F6E-A800-3CC538BFEC34</string>
+		</dict>
+		<key>72AB5566-6801-45E0-A145-F78F226CF6BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>72AB5566-6801-45E0-A145-F78F226CF6BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056677.100577</real>
+			<key>timeStoppedRecording</key>
+			<real>710056677.93077302</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>72AB5566-6801-45E0-A145-F78F226CF6BF</string>
 		</dict>
 		<key>72F4160E-AE3D-4FE7-AC87-F8ED8CF7AEB4</key>
 		<dict>
@@ -4902,6 +5990,74 @@
 			<key>uniqueIdentifier</key>
 			<string>737228EF-2B93-4B0E-9EF1-7E4CBA4F04FB</string>
 		</dict>
+		<key>7376304B-A205-4AA6-A788-F79A32E0B183</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7376304B-A205-4AA6-A788-F79A32E0B183.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055630.23910701</real>
+			<key>timeStoppedRecording</key>
+			<real>710055631.48754895</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>7376304B-A205-4AA6-A788-F79A32E0B183</string>
+		</dict>
+		<key>73F40643-E487-4894-B453-8AA0A9F753C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73F40643-E487-4894-B453-8AA0A9F753C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059858.37200999</real>
+			<key>timeStoppedRecording</key>
+			<real>710059860.17938304</real>
+			<key>title</key>
+			<string>Build for Previews NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>73F40643-E487-4894-B453-8AA0A9F753C4</string>
+		</dict>
 		<key>7467CB6A-EE2F-44D4-8D89-36007E3D9CC0</key>
 		<dict>
 			<key>className</key>
@@ -4935,6 +6091,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>7467CB6A-EE2F-44D4-8D89-36007E3D9CC0</string>
+		</dict>
+		<key>748D68C7-7429-408E-A390-75B85587EDC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>748D68C7-7429-408E-A390-75B85587EDC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056956.48578405</real>
+			<key>timeStoppedRecording</key>
+			<real>710056957.81963897</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>748D68C7-7429-408E-A390-75B85587EDC4</string>
 		</dict>
 		<key>74F7F5AD-EEBF-4332-99DF-B9AEA2873648</key>
 		<dict>
@@ -5820,6 +7010,40 @@
 			<key>uniqueIdentifier</key>
 			<string>81D9B30E-3FF3-4BD4-B956-090E96F031A4</string>
 		</dict>
+		<key>8232ACE1-4057-4C1F-8427-E24A33626C48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8232ACE1-4057-4C1F-8427-E24A33626C48.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060156.86414802</real>
+			<key>timeStoppedRecording</key>
+			<real>710060158.22806394</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8232ACE1-4057-4C1F-8427-E24A33626C48</string>
+		</dict>
 		<key>8290DC01-EF44-43DC-9F53-6AAF34C5C50D</key>
 		<dict>
 			<key>className</key>
@@ -5921,6 +7145,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>82F3398D-2EC3-410B-85FE-964E01BF1177</string>
+		</dict>
+		<key>8309F7F8-AA73-480B-B739-81BD4D0551C5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8309F7F8-AA73-480B-B739-81BD4D0551C5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057196.06258297</real>
+			<key>timeStoppedRecording</key>
+			<real>710057197.10509396</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8309F7F8-AA73-480B-B739-81BD4D0551C5</string>
 		</dict>
 		<key>830DC000-0A12-449F-AE79-C676D9574435</key>
 		<dict>
@@ -6160,6 +7418,40 @@
 			<key>uniqueIdentifier</key>
 			<string>855AFA1A-7927-4A35-903B-EC05FF0BB614</string>
 		</dict>
+		<key>85DE5C45-A893-413B-A426-DE2AA37D6E28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>85DE5C45-A893-413B-A426-DE2AA37D6E28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056555.69892895</real>
+			<key>timeStoppedRecording</key>
+			<real>710056556.35722601</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>85DE5C45-A893-413B-A426-DE2AA37D6E28</string>
+		</dict>
 		<key>87B0FF97-A64B-4671-ABDE-479F35B97C38</key>
 		<dict>
 			<key>className</key>
@@ -6193,6 +7485,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>87B0FF97-A64B-4671-ABDE-479F35B97C38</string>
+		</dict>
+		<key>8827D747-AF0B-4FF9-A681-2A118A87111F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8827D747-AF0B-4FF9-A681-2A118A87111F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710054567.65844595</real>
+			<key>timeStoppedRecording</key>
+			<real>710054575.37998199</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8827D747-AF0B-4FF9-A681-2A118A87111F</string>
 		</dict>
 		<key>883AED5A-954F-465A-98C7-A4C8B607109B</key>
 		<dict>
@@ -6262,6 +7588,40 @@
 			<key>uniqueIdentifier</key>
 			<string>884406F7-D40F-4392-8F19-0F9CABB5FE3B</string>
 		</dict>
+		<key>8860407B-2707-4566-9AF5-C1D0F8BBDCAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8860407B-2707-4566-9AF5-C1D0F8BBDCAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056265.98214304</real>
+			<key>timeStoppedRecording</key>
+			<real>710056267.30182302</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8860407B-2707-4566-9AF5-C1D0F8BBDCAF</string>
+		</dict>
 		<key>88EBE78A-284D-4D2C-90A1-5A3CD25547A3</key>
 		<dict>
 			<key>className</key>
@@ -6295,6 +7655,74 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>88EBE78A-284D-4D2C-90A1-5A3CD25547A3</string>
+		</dict>
+		<key>8951BFAD-4904-485E-936E-AEF5626855A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8951BFAD-4904-485E-936E-AEF5626855A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059266.45120096</real>
+			<key>timeStoppedRecording</key>
+			<real>710059268.03207695</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8951BFAD-4904-485E-936E-AEF5626855A8</string>
+		</dict>
+		<key>89864A4B-F2DD-44A0-A737-CB47462DEE98</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>89864A4B-F2DD-44A0-A737-CB47462DEE98.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057088.44112694</real>
+			<key>timeStoppedRecording</key>
+			<real>710057089.46960902</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>89864A4B-F2DD-44A0-A737-CB47462DEE98</string>
 		</dict>
 		<key>89D215E6-DBD7-475D-A2AE-58289CC56C8E</key>
 		<dict>
@@ -6398,6 +7826,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8AEC33DE-1569-435B-9EAB-1CD6A4D46A59</string>
 		</dict>
+		<key>8AF17043-3113-4B3E-9654-8CE380257FA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AF17043-3113-4B3E-9654-8CE380257FA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059852.09854901</real>
+			<key>timeStoppedRecording</key>
+			<real>710059852.60212195</real>
+			<key>title</key>
+			<string>Build for Previews NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8AF17043-3113-4B3E-9654-8CE380257FA7</string>
+		</dict>
 		<key>8B2A164E-5EB0-49C8-A22A-ACE4C0796454</key>
 		<dict>
 			<key>className</key>
@@ -6431,6 +7893,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>8B2A164E-5EB0-49C8-A22A-ACE4C0796454</string>
+		</dict>
+		<key>8B521210-7023-413F-B2E7-9E0D70A8B0EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B521210-7023-413F-B2E7-9E0D70A8B0EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057659.06603706</real>
+			<key>timeStoppedRecording</key>
+			<real>710057659.39647305</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8B521210-7023-413F-B2E7-9E0D70A8B0EF</string>
 		</dict>
 		<key>8C6BBEFA-F0D5-4EC9-9B0E-204A91A5CA05</key>
 		<dict>
@@ -6738,6 +8234,40 @@
 			<key>uniqueIdentifier</key>
 			<string>904CCDA3-357E-4936-BA95-6532408E40F2</string>
 		</dict>
+		<key>913B1D2B-2593-4EDF-A5D5-1147C7D85E80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>913B1D2B-2593-4EDF-A5D5-1147C7D85E80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059048.77558601</real>
+			<key>timeStoppedRecording</key>
+			<real>710059050.21061397</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>913B1D2B-2593-4EDF-A5D5-1147C7D85E80</string>
+		</dict>
 		<key>92DD3B41-FCAB-4DB3-887B-9D0D54C63493</key>
 		<dict>
 			<key>className</key>
@@ -6772,6 +8302,74 @@
 			<key>uniqueIdentifier</key>
 			<string>92DD3B41-FCAB-4DB3-887B-9D0D54C63493</string>
 		</dict>
+		<key>9382FBAF-ABE7-498F-83E1-C62BFD7DF07F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9382FBAF-ABE7-498F-83E1-C62BFD7DF07F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059180.55788505</real>
+			<key>timeStoppedRecording</key>
+			<real>710059181.88717604</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9382FBAF-ABE7-498F-83E1-C62BFD7DF07F</string>
+		</dict>
+		<key>938DC49B-B872-4D79-9116-ADBFB1D8C00E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>938DC49B-B872-4D79-9116-ADBFB1D8C00E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056931.09379697</real>
+			<key>timeStoppedRecording</key>
+			<real>710056932.21246397</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>938DC49B-B872-4D79-9116-ADBFB1D8C00E</string>
+		</dict>
 		<key>93F70C18-EDCE-499C-9759-D804D413AC4D</key>
 		<dict>
 			<key>className</key>
@@ -6805,6 +8403,74 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>93F70C18-EDCE-499C-9759-D804D413AC4D</string>
+		</dict>
+		<key>940307FA-060B-4B70-85F8-701D34CCC897</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>940307FA-060B-4B70-85F8-701D34CCC897.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060289.09599698</real>
+			<key>timeStoppedRecording</key>
+			<real>710060290.38119304</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>940307FA-060B-4B70-85F8-701D34CCC897</string>
+		</dict>
+		<key>94082B63-1954-4F0C-A0AA-5E996CC4F9AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94082B63-1954-4F0C-A0AA-5E996CC4F9AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057186.81392705</real>
+			<key>timeStoppedRecording</key>
+			<real>710057187.422755</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>94082B63-1954-4F0C-A0AA-5E996CC4F9AD</string>
 		</dict>
 		<key>94B6184D-68FB-41E9-BB2A-5343F584EA0F</key>
 		<dict>
@@ -6976,6 +8642,40 @@
 			<key>uniqueIdentifier</key>
 			<string>95E8B835-5AB2-4368-8B73-461D9908F21E</string>
 		</dict>
+		<key>95ED7212-8335-4A89-BFC2-599ECF1A3B87</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95ED7212-8335-4A89-BFC2-599ECF1A3B87.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056921.07891405</real>
+			<key>timeStoppedRecording</key>
+			<real>710056922.38989198</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>95ED7212-8335-4A89-BFC2-599ECF1A3B87</string>
+		</dict>
 		<key>970492AA-B3A3-45A4-A7A6-FF1AA10802FD</key>
 		<dict>
 			<key>className</key>
@@ -7044,6 +8744,40 @@
 			<key>uniqueIdentifier</key>
 			<string>980DFA6D-ED33-425E-B530-559A1C1FB820</string>
 		</dict>
+		<key>988F7B88-5C50-4BC5-9E8D-C7BFB7F12C45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>988F7B88-5C50-4BC5-9E8D-C7BFB7F12C45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056688.18671298</real>
+			<key>timeStoppedRecording</key>
+			<real>710056689.47630203</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>988F7B88-5C50-4BC5-9E8D-C7BFB7F12C45</string>
+		</dict>
 		<key>98CC3274-991E-49C9-BB1C-B9A40F740C41</key>
 		<dict>
 			<key>className</key>
@@ -7077,6 +8811,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>98CC3274-991E-49C9-BB1C-B9A40F740C41</string>
+		</dict>
+		<key>98D7A954-9F71-4C76-9C58-B41F980D4EDD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>98D7A954-9F71-4C76-9C58-B41F980D4EDD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060841.27902806</real>
+			<key>timeStoppedRecording</key>
+			<real>710060841.48263896</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>98D7A954-9F71-4C76-9C58-B41F980D4EDD</string>
 		</dict>
 		<key>993AAECA-DC0A-4224-A5AC-B239CCF7D2E0</key>
 		<dict>
@@ -7213,6 +8981,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>9A3382DD-314D-436A-806B-64CE3296DB4C</string>
+		</dict>
+		<key>9A94D090-23D6-4454-A812-92449261AECE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A94D090-23D6-4454-A812-92449261AECE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057041.28613901</real>
+			<key>timeStoppedRecording</key>
+			<real>710057042.11798406</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9A94D090-23D6-4454-A812-92449261AECE</string>
 		</dict>
 		<key>9A9F7322-AD55-4A57-9680-31C273898301</key>
 		<dict>
@@ -7384,6 +9186,74 @@
 			<key>uniqueIdentifier</key>
 			<string>9D1FC7C0-D09A-4DE8-B967-88AD06D82AEB</string>
 		</dict>
+		<key>9D35CC27-ACF3-4814-BFAE-1A86D858D243</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D35CC27-ACF3-4814-BFAE-1A86D858D243.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057590.15901005</real>
+			<key>timeStoppedRecording</key>
+			<real>710057591.57762694</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9D35CC27-ACF3-4814-BFAE-1A86D858D243</string>
+		</dict>
+		<key>9D3CFF77-7CB4-400C-B6DD-FAC92379833A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D3CFF77-7CB4-400C-B6DD-FAC92379833A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057320.00214398</real>
+			<key>timeStoppedRecording</key>
+			<real>710057321.21443403</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9D3CFF77-7CB4-400C-B6DD-FAC92379833A</string>
+		</dict>
 		<key>9DC75021-78BE-43BD-882C-C1D4951A5AC6</key>
 		<dict>
 			<key>className</key>
@@ -7417,6 +9287,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>9DC75021-78BE-43BD-882C-C1D4951A5AC6</string>
+		</dict>
+		<key>9E319417-742A-465D-A406-EC0977ED25EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E319417-742A-465D-A406-EC0977ED25EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057077.78614104</real>
+			<key>timeStoppedRecording</key>
+			<real>710057078.60406995</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9E319417-742A-465D-A406-EC0977ED25EA</string>
 		</dict>
 		<key>9F944D06-98FD-4D9E-A8C6-F27110E7C978</key>
 		<dict>
@@ -7520,6 +9424,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A2F87DF6-10DA-465D-BA3B-E27ABB4B1D88</string>
 		</dict>
+		<key>A45AD7D2-9D13-4C3C-A612-B4F38332D756</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A45AD7D2-9D13-4C3C-A612-B4F38332D756.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059629.35563505</real>
+			<key>timeStoppedRecording</key>
+			<real>710059632.16684997</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>A45AD7D2-9D13-4C3C-A612-B4F38332D756</string>
+		</dict>
 		<key>A492AE4E-C681-4DAD-9559-28BD441435B2</key>
 		<dict>
 			<key>className</key>
@@ -7553,6 +9491,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>A492AE4E-C681-4DAD-9559-28BD441435B2</string>
+		</dict>
+		<key>A5189676-3055-465D-A97B-0D70925BC081</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A5189676-3055-465D-A97B-0D70925BC081.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057019.72926497</real>
+			<key>timeStoppedRecording</key>
+			<real>710057020.94708097</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>A5189676-3055-465D-A97B-0D70925BC081</string>
 		</dict>
 		<key>A540E4A6-C79E-4C7D-B303-2D04B0F58932</key>
 		<dict>
@@ -7792,6 +9764,74 @@
 			<key>uniqueIdentifier</key>
 			<string>A9BEFC63-7DE4-456C-9596-0579417628A9</string>
 		</dict>
+		<key>AA7F7E6D-99C1-4862-B2B9-5B091D0686FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA7F7E6D-99C1-4862-B2B9-5B091D0686FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059667.00394797</real>
+			<key>timeStoppedRecording</key>
+			<real>710059668.50150597</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>AA7F7E6D-99C1-4862-B2B9-5B091D0686FF</string>
+		</dict>
+		<key>AA9FB754-8D10-4888-9E12-CD9BBF7BD98E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA9FB754-8D10-4888-9E12-CD9BBF7BD98E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056497.88601005</real>
+			<key>timeStoppedRecording</key>
+			<real>710056498.496387</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>AA9FB754-8D10-4888-9E12-CD9BBF7BD98E</string>
+		</dict>
 		<key>AAA96F91-0DE7-4E6B-A58E-57CCB4BD44AA</key>
 		<dict>
 			<key>className</key>
@@ -7893,6 +9933,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>AD055E72-22B1-4B68-A168-FF29338F5B33</string>
+		</dict>
+		<key>AD7C9B50-1202-4A1C-B042-76E9A7A6AC2C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AD7C9B50-1202-4A1C-B042-76E9A7A6AC2C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710054715.25453401</real>
+			<key>timeStoppedRecording</key>
+			<real>710054717.22681904</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>AD7C9B50-1202-4A1C-B042-76E9A7A6AC2C</string>
 		</dict>
 		<key>AD80ACD0-0E9F-42BA-AA89-E18C7BA85956</key>
 		<dict>
@@ -8097,6 +10171,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>AF1EF308-0C81-4B3C-BA7D-D5B44CB1CC61</string>
+		</dict>
+		<key>B03B3AF4-EF7A-4303-A27F-D2E82D39C7C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B03B3AF4-EF7A-4303-A27F-D2E82D39C7C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060183.56097901</real>
+			<key>timeStoppedRecording</key>
+			<real>710060185.12185395</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>B03B3AF4-EF7A-4303-A27F-D2E82D39C7C8</string>
 		</dict>
 		<key>B096CE71-057F-4F7E-97C5-BFBCA3ACD2B1</key>
 		<dict>
@@ -8676,6 +10784,74 @@
 			<key>uniqueIdentifier</key>
 			<string>B9B9EFC2-117E-4435-A4AE-8F0D2E07AB23</string>
 		</dict>
+		<key>BA652123-6D7F-46AE-8446-7B98A9E96289</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA652123-6D7F-46AE-8446-7B98A9E96289.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059832.550753</real>
+			<key>timeStoppedRecording</key>
+			<real>710059835.603091</real>
+			<key>title</key>
+			<string>Build for Previews NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>BA652123-6D7F-46AE-8446-7B98A9E96289</string>
+		</dict>
+		<key>BA77532B-2CC0-4229-ACDC-AD9023580F1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA77532B-2CC0-4229-ACDC-AD9023580F1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057810.76820099</real>
+			<key>timeStoppedRecording</key>
+			<real>710057811.43126094</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>BA77532B-2CC0-4229-ACDC-AD9023580F1B</string>
+		</dict>
 		<key>BAA81FD4-60F4-4FE4-88DF-83C82CABC3CC</key>
 		<dict>
 			<key>className</key>
@@ -8709,6 +10885,74 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>BAA81FD4-60F4-4FE4-88DF-83C82CABC3CC</string>
+		</dict>
+		<key>BABCF130-F51B-45B0-A418-84983FFE4F29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BABCF130-F51B-45B0-A418-84983FFE4F29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055645.29367995</real>
+			<key>timeStoppedRecording</key>
+			<real>710055646.60242605</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>BABCF130-F51B-45B0-A418-84983FFE4F29</string>
+		</dict>
+		<key>BB8A7801-C504-41CE-86B4-EC4B2ADDA428</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BB8A7801-C504-41CE-86B4-EC4B2ADDA428.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060376.25072598</real>
+			<key>timeStoppedRecording</key>
+			<real>710060377.70529306</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>BB8A7801-C504-41CE-86B4-EC4B2ADDA428</string>
 		</dict>
 		<key>BC71599A-95BC-4171-BCBF-845E61883B07</key>
 		<dict>
@@ -8812,6 +11056,40 @@
 			<key>uniqueIdentifier</key>
 			<string>BCE37984-D0EF-4E42-931F-D61965642492</string>
 		</dict>
+		<key>BDD60D19-E313-4A34-9AFE-025DE5851199</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDD60D19-E313-4A34-9AFE-025DE5851199.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060205.12033296</real>
+			<key>timeStoppedRecording</key>
+			<real>710060206.30887699</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>BDD60D19-E313-4A34-9AFE-025DE5851199</string>
+		</dict>
 		<key>BDE27B94-C5E0-4443-B893-C62FEB1C2C7D</key>
 		<dict>
 			<key>className</key>
@@ -8845,6 +11123,40 @@
 			<string>Build NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>BDE27B94-C5E0-4443-B893-C62FEB1C2C7D</string>
+		</dict>
+		<key>C0C10A94-57D8-4694-922E-0C6EB802B335</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0C10A94-57D8-4694-922E-0C6EB802B335.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060474.34938002</real>
+			<key>timeStoppedRecording</key>
+			<real>710060475.69132197</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>C0C10A94-57D8-4694-922E-0C6EB802B335</string>
 		</dict>
 		<key>C2AFCCC6-91E8-483B-BD85-2CD89E4D1919</key>
 		<dict>
@@ -9016,6 +11328,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C53FE56C-F435-493A-833E-4B0E524B68E7</string>
 		</dict>
+		<key>C5D64D2A-F746-4D4A-879D-222A98976CEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C5D64D2A-F746-4D4A-879D-222A98976CEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057098.05891204</real>
+			<key>timeStoppedRecording</key>
+			<real>710057098.98113799</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>C5D64D2A-F746-4D4A-879D-222A98976CEA</string>
+		</dict>
 		<key>C6387055-43A2-45B9-99F3-3BF5A223CEC4</key>
 		<dict>
 			<key>className</key>
@@ -9083,6 +11429,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>C76F2D02-FD5D-4AA8-97CF-476B20A9972E</string>
+		</dict>
+		<key>C8164D41-5DF9-4147-811F-3AABFC1B8543</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8164D41-5DF9-4147-811F-3AABFC1B8543.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056671.03799903</real>
+			<key>timeStoppedRecording</key>
+			<real>710056672.29645503</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>C8164D41-5DF9-4147-811F-3AABFC1B8543</string>
 		</dict>
 		<key>C91DFE32-4DAE-4F94-81F7-F04DC4E98324</key>
 		<dict>
@@ -9492,6 +11872,108 @@
 			<key>uniqueIdentifier</key>
 			<string>D39EEBEE-8E86-4619-B72B-7869D174C377</string>
 		</dict>
+		<key>D3C804AF-594C-48BC-9327-330BA4C07230</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D3C804AF-594C-48BC-9327-330BA4C07230.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060096.28771305</real>
+			<key>timeStoppedRecording</key>
+			<real>710060097.71114898</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D3C804AF-594C-48BC-9327-330BA4C07230</string>
+		</dict>
+		<key>D3DB71A6-01D7-44B5-B3BE-4CB2C2276E34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D3DB71A6-01D7-44B5-B3BE-4CB2C2276E34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060269.08273602</real>
+			<key>timeStoppedRecording</key>
+			<real>710060270.28951597</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D3DB71A6-01D7-44B5-B3BE-4CB2C2276E34</string>
+		</dict>
+		<key>D440CAEC-CC7C-4157-9928-F6D43A03BF3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D440CAEC-CC7C-4157-9928-F6D43A03BF3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056431.70167196</real>
+			<key>timeStoppedRecording</key>
+			<real>710056432.86929905</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D440CAEC-CC7C-4157-9928-F6D43A03BF3A</string>
+		</dict>
 		<key>D5563CEF-3EAC-42AD-B7D0-9622F259AE69</key>
 		<dict>
 			<key>className</key>
@@ -9628,6 +12110,40 @@
 			<key>uniqueIdentifier</key>
 			<string>D63084A9-5459-4BB0-9541-FCE61C0A703A</string>
 		</dict>
+		<key>D73B4A6D-B933-43A9-A493-FE3EBB82B662</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D73B4A6D-B933-43A9-A493-FE3EBB82B662.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060746.51814795</real>
+			<key>timeStoppedRecording</key>
+			<real>710060747.888309</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D73B4A6D-B933-43A9-A493-FE3EBB82B662</string>
+		</dict>
 		<key>D887D2BD-D964-47A6-8768-6E8EBDB3A168</key>
 		<dict>
 			<key>className</key>
@@ -9729,6 +12245,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>D96F45F2-430C-4C98-8F8F-1162E1179A75</string>
+		</dict>
+		<key>D990DEB0-EC27-4638-A13E-AEF86091B22F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D990DEB0-EC27-4638-A13E-AEF86091B22F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055977.93386102</real>
+			<key>timeStoppedRecording</key>
+			<real>710055978.09340298</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D990DEB0-EC27-4638-A13E-AEF86091B22F</string>
 		</dict>
 		<key>D9A4169A-D529-424E-A205-6ED44E5445D6</key>
 		<dict>
@@ -9900,6 +12450,74 @@
 			<key>uniqueIdentifier</key>
 			<string>DBF6019A-565B-4EB9-96A7-D420633EFAF8</string>
 		</dict>
+		<key>DC519C82-5BAB-49D1-87A2-3EC374508533</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC519C82-5BAB-49D1-87A2-3EC374508533.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060653.62948298</real>
+			<key>timeStoppedRecording</key>
+			<real>710060654.96805096</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>DC519C82-5BAB-49D1-87A2-3EC374508533</string>
+		</dict>
+		<key>DCE408FA-884E-4AF4-B2E2-B3C7E7746621</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCE408FA-884E-4AF4-B2E2-B3C7E7746621.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710058846.64867496</real>
+			<key>timeStoppedRecording</key>
+			<real>710058848.494537</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>DCE408FA-884E-4AF4-B2E2-B3C7E7746621</string>
+		</dict>
 		<key>DD8F44B8-A476-4EC6-8FDB-56D8EC12D062</key>
 		<dict>
 			<key>className</key>
@@ -9967,6 +12585,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>DDB57DDC-AB43-4A00-9F96-3C704D405E1C</string>
+		</dict>
+		<key>DE915AD8-6B62-4F66-94D3-2176A8806861</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE915AD8-6B62-4F66-94D3-2176A8806861.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056481.40032303</real>
+			<key>timeStoppedRecording</key>
+			<real>710056482.07619905</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>DE915AD8-6B62-4F66-94D3-2176A8806861</string>
 		</dict>
 		<key>DEF5E816-89C3-47B8-96C5-DB4F8DDCC808</key>
 		<dict>
@@ -10103,6 +12755,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>E0E13831-4689-4EE7-986C-ED616BD71B5A</string>
+		</dict>
+		<key>E1CA5407-909D-4D31-9B03-6B6D7DF9FE25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E1CA5407-909D-4D31-9B03-6B6D7DF9FE25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059343.93709099</real>
+			<key>timeStoppedRecording</key>
+			<real>710059345.40457904</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E1CA5407-909D-4D31-9B03-6B6D7DF9FE25</string>
 		</dict>
 		<key>E40F7D74-E3EF-4FE1-9A7F-75DB87BD894C</key>
 		<dict>
@@ -11158,6 +13844,40 @@
 			<key>uniqueIdentifier</key>
 			<string>F7554F17-3881-4406-AAE8-5321C01C312E</string>
 		</dict>
+		<key>F800D30A-E8FF-41B0-87FF-5BCF8A3E07B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F800D30A-E8FF-41B0-87FF-5BCF8A3E07B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060125.11330295</real>
+			<key>timeStoppedRecording</key>
+			<real>710060126.58018899</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F800D30A-E8FF-41B0-87FF-5BCF8A3E07B3</string>
+		</dict>
 		<key>F84392F4-D7AE-4DA5-BD6E-603BF267C184</key>
 		<dict>
 			<key>className</key>
@@ -11191,6 +13911,40 @@
 			<string>Build for Previews NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>F84392F4-D7AE-4DA5-BD6E-603BF267C184</string>
+		</dict>
+		<key>F84EA8C0-436E-41E0-B6BF-BC6A223DD62B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F84EA8C0-436E-41E0-B6BF-BC6A223DD62B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057679.90718102</real>
+			<key>timeStoppedRecording</key>
+			<real>710057681.06632197</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F84EA8C0-436E-41E0-B6BF-BC6A223DD62B</string>
 		</dict>
 		<key>F88B3A5E-873E-46AD-8F65-ED40FA4C8112</key>
 		<dict>
@@ -11328,6 +14082,40 @@
 			<key>uniqueIdentifier</key>
 			<string>F9F26075-FBA0-4F25-8CD3-B5FD784BC198</string>
 		</dict>
+		<key>FA483540-8BE7-4824-8576-401680333DBE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA483540-8BE7-4824-8576-401680333DBE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060132.27868998</real>
+			<key>timeStoppedRecording</key>
+			<real>710060133.10695302</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>FA483540-8BE7-4824-8576-401680333DBE</string>
+		</dict>
 		<key>FA546194-8E04-41F1-8888-8D43F4B9B8CC</key>
 		<dict>
 			<key>className</key>
@@ -11430,6 +14218,40 @@
 			<key>uniqueIdentifier</key>
 			<string>FB4AABCB-6800-44EB-A8B2-C296D4F6E2F9</string>
 		</dict>
+		<key>FBA7A6EE-14D7-482F-B6C3-4201B7C906BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBA7A6EE-14D7-482F-B6C3-4201B7C906BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060075.87836003</real>
+			<key>timeStoppedRecording</key>
+			<real>710060077.21623194</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>FBA7A6EE-14D7-482F-B6C3-4201B7C906BD</string>
+		</dict>
 		<key>FBB4DAA5-28AB-49FE-9786-F32BA9F34A64</key>
 		<dict>
 			<key>className</key>
@@ -11497,6 +14319,74 @@
 			<string>Clean NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>FC13B8D0-6D15-44FB-B2A4-012B262C3724</string>
+		</dict>
+		<key>FD135E9B-95F7-42F5-8D3E-26FD82033E63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD135E9B-95F7-42F5-8D3E-26FD82033E63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055719.68561804</real>
+			<key>timeStoppedRecording</key>
+			<real>710055720.37057602</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>FD135E9B-95F7-42F5-8D3E-26FD82033E63</string>
+		</dict>
+		<key>FDA8B090-F314-4497-9A6B-D064BE36E751</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FDA8B090-F314-4497-9A6B-D064BE36E751.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057032.01979101</real>
+			<key>timeStoppedRecording</key>
+			<real>710057033.08482099</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>FDA8B090-F314-4497-9A6B-D064BE36E751</string>
 		</dict>
 		<key>FDCDDC1C-16CD-4712-A59B-3208227841FF</key>
 		<dict>

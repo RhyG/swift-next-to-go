@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct NextToGoApp: App {
+    @StateObject var globalCountdownTimer = ClockTickEmitter()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NextToGoView(nextToGoListVM: NextToGoListViewModel())
+                .environmentObject(globalCountdownTimer)
         }
     }
 }

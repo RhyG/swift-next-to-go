@@ -21,16 +21,18 @@ struct NextToGoRowView: View {
             VStack(alignment: .leading) {
                 Text("\(race.meetingName) R\(race.raceNumber)")
                     .foregroundColor(.primary)
-                Text("\(race.venueName) - \(race.raceForm.distance)m") // todo use dot not -
+                Text("\(race.venueName) - \(race.raceForm.distance)m")
                     .font(.subheadline)
                     .foregroundColor(.secondary)
             }
             
             Spacer()
             
-            Text("1m 44s")
+            RaceCountdownTimer(raceJumpTime: Date(timeIntervalSince1970: race.advertisedStart.seconds))
             Image(systemName: "chevron.right")
+                .foregroundColor(.secondary)
         }
+        .animation(.easeIn) // deprecated but is what it is
     }
 }
 
@@ -38,8 +40,7 @@ struct NextToGoRowView_Previews: PreviewProvider {
     static let meetingName = "Grafton"
     
     static var previews: some View {
-//        NextToGoRowView(race: json["race_summaries"]["605c6d5b095fe02a3478811f"])
-        Text("Wow")
+        Text("I don't know how to do previews")
     }
 }
 

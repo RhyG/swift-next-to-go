@@ -6,6 +6,186 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0054ACF2-6EC9-4DD2-A745-90F986408BC9</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DCE408FA-884E-4AF4-B2E2-B3C7E7746621</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-34-06-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710058846.64400899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>0054ACF2-6EC9-4DD2-A745-90F986408BC9</string>
+		</dict>
+		<key>05611080-0316-4DCE-AB11-23408EB25571</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8AEC33DE-1569-435B-9EAB-1CD6A4D46A59</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.06.26_08-45-44-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>709425944.57555604</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>05611080-0316-4DCE-AB11-23408EB25571</string>
+		</dict>
+		<key>060FE6AD-02A4-44A8-A2A6-291CC663CFF8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8860407B-2707-4566-9AF5-C1D0F8BBDCAF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-51-05-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056265.98150802</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>060FE6AD-02A4-44A8-A2A6-291CC663CFF8</string>
+		</dict>
+		<key>061C196A-0482-435C-A915-80AF1F06D6C7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8232ACE1-4057-4C1F-8427-E24A33626C48</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-55-56-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060156.86393404</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>061C196A-0482-435C-A915-80AF1F06D6C7</string>
+		</dict>
 		<key>0720D74C-7248-411E-8E98-BB60D7465BB6</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -50,6 +230,51 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>0720D74C-7248-411E-8E98-BB60D7465BB6</string>
+		</dict>
+		<key>07ACD61E-C672-4AA7-A525-1CFAEC4D0750</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>326B938B-B6D1-4E33-95CE-6D3ADED8DBA0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-01-15-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056875.58519995</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>07ACD61E-C672-4AA7-A525-1CFAEC4D0750</string>
 		</dict>
 		<key>09D2A0CD-7E6A-4749-BB66-EB2AA0DC9758</key>
 		<dict>
@@ -141,6 +366,141 @@
 			<key>uniqueIdentifier</key>
 			<string>0B1E6B6F-23DD-4652-A62C-4AB9E08800CC</string>
 		</dict>
+		<key>0D48774B-CA9A-4216-9F36-0F5FDCF286A3</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3DC3640C-F6B8-493B-9BB3-F017B95B2C8D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-34-32-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710058872.38696396</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>0D48774B-CA9A-4216-9F36-0F5FDCF286A3</string>
+		</dict>
+		<key>0F9D5B89-A200-4590-BFE8-E92AD50BDE18</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9A94D090-23D6-4454-A812-92449261AECE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-04-01-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057041.28579402</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>0F9D5B89-A200-4590-BFE8-E92AD50BDE18</string>
+		</dict>
+		<key>0FC8B246-C238-4D88-945D-3C65A3159305</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8309F7F8-AA73-480B-B739-81BD4D0551C5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-06-36-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057196.06221294</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>0FC8B246-C238-4D88-945D-3C65A3159305</string>
+		</dict>
 		<key>10505A47-9767-4B55-9DD8-3A36C096C891</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -185,6 +545,51 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>10505A47-9767-4B55-9DD8-3A36C096C891</string>
+		</dict>
+		<key>13252CF5-971C-4B79-B9C0-324CF24D923B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0B2B67C9-9A45-48CD-8799-2416A9407B8D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-04-30-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057070.22802699</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>13252CF5-971C-4B79-B9C0-324CF24D923B</string>
 		</dict>
 		<key>140B4E55-E92E-4E8F-A1E9-E7BFBDA75103</key>
 		<dict>
@@ -366,6 +771,96 @@
 			<key>uniqueIdentifier</key>
 			<string>164FC3C6-908A-480C-966A-2CEB66B793DC</string>
 		</dict>
+		<key>1DCC45F1-3F3C-407F-A2F5-AC3192711C9E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9D35CC27-ACF3-4814-BFAE-1A86D858D243</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-13-10-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057590.15851295</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>1DCC45F1-3F3C-407F-A2F5-AC3192711C9E</string>
+		</dict>
+		<key>1FF9EC02-3AB4-4A14-9B14-51BED877DFF2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FD135E9B-95F7-42F5-8D3E-26FD82033E63</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-41-59-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055719.68523395</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>1FF9EC02-3AB4-4A14-9B14-51BED877DFF2</string>
+		</dict>
 		<key>215478F8-F39F-4A2E-98C1-9D0DBF64EF0F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -410,6 +905,51 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>215478F8-F39F-4A2E-98C1-9D0DBF64EF0F</string>
+		</dict>
+		<key>2177CFAE-01BE-4B92-A3BD-B0B1DF408D12</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D440CAEC-CC7C-4157-9928-F6D43A03BF3A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-53-51-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056431.70121801</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>2177CFAE-01BE-4B92-A3BD-B0B1DF408D12</string>
 		</dict>
 		<key>221111FF-E96F-4AD0-B202-5505B3200AAB</key>
 		<dict>
@@ -681,6 +1221,141 @@
 			<key>uniqueIdentifier</key>
 			<string>28FDDB14-A9D3-4DF4-A510-24E457051C23</string>
 		</dict>
+		<key>29169DB8-A3FE-418B-AAF0-EC4759B50910</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BA77532B-2CC0-4229-ACDC-AD9023580F1B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-16-50-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057810.76790202</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>29169DB8-A3FE-418B-AAF0-EC4759B50910</string>
+		</dict>
+		<key>2990C909-87E7-478B-8CF8-38CC91DDC8BB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DE915AD8-6B62-4F66-94D3-2176A8806861</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-54-41-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056481.39997494</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>2990C909-87E7-478B-8CF8-38CC91DDC8BB</string>
+		</dict>
+		<key>2B087DF5-1AC3-403E-AAB7-3E6194F2FA79</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AA9FB754-8D10-4888-9E12-CD9BBF7BD98E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-54-57-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056497.885849</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>2B087DF5-1AC3-403E-AAB7-3E6194F2FA79</string>
+		</dict>
 		<key>2E3C04F4-EAC5-4C5D-89FC-B8492D16E91F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -770,6 +1445,51 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>2E4A48C6-E5D8-49BB-9D93-0B9862070B79</string>
+		</dict>
+		<key>2E8185B1-683B-4C6C-ADEC-CBABB69FC610</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>33F89F3B-7404-4565-887D-2C5CD252B02D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-13-26-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057606.27016902</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>2E8185B1-683B-4C6C-ADEC-CBABB69FC610</string>
 		</dict>
 		<key>2FFF94DD-267B-47F7-9816-F70ACCFA0546</key>
 		<dict>
@@ -905,6 +1625,51 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>37C6F837-75AC-4AB0-B1C6-5BA4342C060D</string>
+		</dict>
+		<key>3B9C4939-9612-4545-8E55-BC1F22780F74</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8827D747-AF0B-4FF9-A681-2A118A87111F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-22-47-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710054567.65585804</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>3B9C4939-9612-4545-8E55-BC1F22780F74</string>
 		</dict>
 		<key>3C4F92CE-FF56-4B4F-877C-E242B79E3023</key>
 		<dict>
@@ -1131,6 +1896,141 @@
 			<key>uniqueIdentifier</key>
 			<string>4827F2F2-FB6A-4412-800C-74A7EA789001</string>
 		</dict>
+		<key>4C01A612-531A-446B-907B-4A6414F42EF5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D3DB71A6-01D7-44B5-B3BE-4CB2C2276E34</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-57-49-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060269.08216202</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>4C01A612-531A-446B-907B-4A6414F42EF5</string>
+		</dict>
+		<key>4CC3F375-3E6E-485E-A949-31106F9AADD3</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>47AAD5C2-AA0B-4F3C-9B56-6CB62F084DD7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-04-12-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057052.50431502</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>4CC3F375-3E6E-485E-A949-31106F9AADD3</string>
+		</dict>
+		<key>4F7BB91E-EF27-4372-93A1-DF88BF99A528</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>520C305E-DC84-46E4-8F80-21FECB82C3E4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-59-16-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060356.453251</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>4F7BB91E-EF27-4372-93A1-DF88BF99A528</string>
+		</dict>
 		<key>5181D5D6-6847-4CDE-BC1A-9F2701C9CFE2</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1356,6 +2256,186 @@
 			<key>uniqueIdentifier</key>
 			<string>56F7F645-33F1-4974-981D-FD5B6126899E</string>
 		</dict>
+		<key>57271398-0320-4153-9EE1-953518C1EE44</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AD7C9B50-1202-4A1C-B042-76E9A7A6AC2C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-25-15-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710054715.25211704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>57271398-0320-4153-9EE1-953518C1EE44</string>
+		</dict>
+		<key>5C122757-19F8-49D5-A1A1-1011400BBE5C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6D8B8A67-755B-44BB-AFA9-B9339B22DCCC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-52-42-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056362.82566404</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>5C122757-19F8-49D5-A1A1-1011400BBE5C</string>
+		</dict>
+		<key>5F666180-0C33-4E7E-A49A-F05442F31380</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D73B4A6D-B933-43A9-A493-FE3EBB82B662</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-05-46-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060746.51793206</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>5F666180-0C33-4E7E-A49A-F05442F31380</string>
+		</dict>
+		<key>625F0F73-D2A9-4A0B-A5A0-998F57AAF351</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8B521210-7023-413F-B2E7-9E0D70A8B0EF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-14-19-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057659.06557906</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>625F0F73-D2A9-4A0B-A5A0-998F57AAF351</string>
+		</dict>
 		<key>63C5B530-F751-4FFD-851B-362FCF53B177</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1401,6 +2481,96 @@
 			<key>uniqueIdentifier</key>
 			<string>63C5B530-F751-4FFD-851B-362FCF53B177</string>
 		</dict>
+		<key>65066146-1AF2-4583-8BC8-C4FD9018F117</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AA7F7E6D-99C1-4862-B2B9-5B091D0686FF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-47-47-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059667.00373995</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>65066146-1AF2-4583-8BC8-C4FD9018F117</string>
+		</dict>
+		<key>679855B6-1252-4855-A400-F811C6C0ADEF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>57EECB5D-F2FF-44FB-A966-376C6C2802B5</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-07-59-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057279.07784605</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>679855B6-1252-4855-A400-F811C6C0ADEF</string>
+		</dict>
 		<key>68CC7052-A217-47FD-AB4D-83F69DFC54BB</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1445,6 +2615,141 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>68CC7052-A217-47FD-AB4D-83F69DFC54BB</string>
+		</dict>
+		<key>6B0F6326-0CC3-4955-82AB-4503638CBA11</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BB8A7801-C504-41CE-86B4-EC4B2ADDA428</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-59-36-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060376.25048196</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>6B0F6326-0CC3-4955-82AB-4503638CBA11</string>
+		</dict>
+		<key>6B3F9087-7D76-45C5-B069-E0E1E40350A4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>155D4B59-1459-4143-9367-F026D961732E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-20-51-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710061651.06789196</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>6B3F9087-7D76-45C5-B069-E0E1E40350A4</string>
+		</dict>
+		<key>6CC54840-5199-431C-9D56-F43B1EC35D8F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>98D7A954-9F71-4C76-9C58-B41F980D4EDD</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-07-21-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060841.27878702</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>6CC54840-5199-431C-9D56-F43B1EC35D8F</string>
 		</dict>
 		<key>6D425253-E140-4D90-B439-D3A1DA7C23D8</key>
 		<dict>
@@ -1671,6 +2976,96 @@
 			<key>uniqueIdentifier</key>
 			<string>706DDAE7-38F1-403C-97A9-2320E01AA99D</string>
 		</dict>
+		<key>725F645B-F77B-4C60-9F37-C2B704C5CD59</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>65730DBF-DB3A-44CA-BF9F-A2E271986A5E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-45-19-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055919.454656</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>725F645B-F77B-4C60-9F37-C2B704C5CD59</string>
+		</dict>
+		<key>7272BD86-BA5C-470D-8B97-27DA20C844A2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>57F979D9-D59D-4713-8BAD-B7E68D538A38</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-52-14-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059934.38306105</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>7272BD86-BA5C-470D-8B97-27DA20C844A2</string>
+		</dict>
 		<key>72DEDAEF-F664-409C-8848-9F0DCA248BB3</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1715,6 +3110,231 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>72DEDAEF-F664-409C-8848-9F0DCA248BB3</string>
+		</dict>
+		<key>7567D61B-E545-4025-A50C-E3A1B6B3E58F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>938DC49B-B872-4D79-9116-ADBFB1D8C00E</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-02-11-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056931.093606</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>7567D61B-E545-4025-A50C-E3A1B6B3E58F</string>
+		</dict>
+		<key>75A7CA07-FC59-423E-AC95-D3B0F01CBEE8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D990DEB0-EC27-4638-A13E-AEF86091B22F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-46-17-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055977.93195796</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>75A7CA07-FC59-423E-AC95-D3B0F01CBEE8</string>
+		</dict>
+		<key>77505B0E-F83B-4498-AB3D-BABC904ABEC1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9D3CFF77-7CB4-400C-B6DD-FAC92379833A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-08-40-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057320.001706</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>77505B0E-F83B-4498-AB3D-BABC904ABEC1</string>
+		</dict>
+		<key>78F71ABB-57FF-498C-B238-27E7FF963DB7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4B60592F-934B-4713-A537-16E77B0548B7</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-39-21-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059161.75153303</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>78F71ABB-57FF-498C-B238-27E7FF963DB7</string>
+		</dict>
+		<key>79F16992-0B23-4D68-BEB7-093530DAACB4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>321F120C-74F3-4FE6-BAE3-71FB2CAA66FF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-06-57-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060817.89640701</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>79F16992-0B23-4D68-BEB7-093530DAACB4</string>
 		</dict>
 		<key>7A5EFA84-2C0D-4A88-8488-413F5092A2D9</key>
 		<dict>
@@ -1896,6 +3516,141 @@
 			<key>uniqueIdentifier</key>
 			<string>8055B171-B897-4E49-B0DA-508D99688A1D</string>
 		</dict>
+		<key>8168E9A8-FCDD-4570-974E-2C5A51CBD51A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>72AB5566-6801-45E0-A145-F78F226CF6BF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-57-57-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056677.10029495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8168E9A8-FCDD-4570-974E-2C5A51CBD51A</string>
+		</dict>
+		<key>81DD9ADB-C182-43F9-B61D-1F5F64B78831</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4E92C8BD-9CFB-4AC4-8828-4380F224B5FB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-15-38-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057738.55321705</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>81DD9ADB-C182-43F9-B61D-1F5F64B78831</string>
+		</dict>
+		<key>840740FB-4EA5-46CA-B95E-54BAD13F4E43</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E1CA5407-909D-4D31-9B03-6B6D7DF9FE25</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-42-23-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059343.93690097</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>840740FB-4EA5-46CA-B95E-54BAD13F4E43</string>
+		</dict>
 		<key>8537BCB5-ABA1-4487-BA5F-2FF6F9A0F3D5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1940,6 +3695,51 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>8537BCB5-ABA1-4487-BA5F-2FF6F9A0F3D5</string>
+		</dict>
+		<key>87131721-2125-4538-8685-56ABD35C77B5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>748D68C7-7429-408E-A390-75B85587EDC4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-02-36-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056956.485412</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>87131721-2125-4538-8685-56ABD35C77B5</string>
 		</dict>
 		<key>8736CA19-5046-419F-8DB9-C18B713D038F</key>
 		<dict>
@@ -2076,6 +3876,51 @@
 			<key>uniqueIdentifier</key>
 			<string>8F13D36C-6814-4CCC-937B-D8D91B9247CE</string>
 		</dict>
+		<key>90DE73B2-CD89-4F49-AC65-1E0DA2F269A2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B03B3AF4-EF7A-4303-A27F-D2E82D39C7C8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-56-23-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060183.56070697</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>90DE73B2-CD89-4F49-AC65-1E0DA2F269A2</string>
+		</dict>
 		<key>937BAC3D-21EF-45B2-BF37-62F57AA50B0C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2166,6 +4011,51 @@
 			<key>uniqueIdentifier</key>
 			<string>93C58A63-6365-46C7-A44F-94593D1ADA61</string>
 		</dict>
+		<key>93D567B4-CB1A-4F0D-ADB8-8450CBF4D042</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>94082B63-1954-4F0C-A0AA-5E996CC4F9AD</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-06-26-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057186.81368303</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>93D567B4-CB1A-4F0D-ADB8-8450CBF4D042</string>
+		</dict>
 		<key>97978BC7-8BED-4C03-92C4-D054B5235D0F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2210,6 +4100,141 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>97978BC7-8BED-4C03-92C4-D054B5235D0F</string>
+		</dict>
+		<key>9C5D04DB-5035-46DF-9EE8-9067E2FEB3DB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BDD60D19-E313-4A34-9AFE-025DE5851199</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-56-45-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060205.12006104</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9C5D04DB-5035-46DF-9EE8-9067E2FEB3DB</string>
+		</dict>
+		<key>9D6BCD8E-AF90-49EE-AFB5-284200E55F4F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>33365A31-4E39-4AE2-BBAD-A8A5B09C1030</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-55-06-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060106.25193799</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>9D6BCD8E-AF90-49EE-AFB5-284200E55F4F</string>
+		</dict>
+		<key>A1D3B223-CFDB-46FD-BF33-95382DCB553B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>46B34235-F162-444F-90C7-C7ED3D95EF17</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-07-06-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060826.72958601</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>A1D3B223-CFDB-46FD-BF33-95382DCB553B</string>
 		</dict>
 		<key>A64E22D3-B8B1-455B-8AE4-D49BD525968D</key>
 		<dict>
@@ -2256,6 +4281,51 @@
 			<key>uniqueIdentifier</key>
 			<string>A64E22D3-B8B1-455B-8AE4-D49BD525968D</string>
 		</dict>
+		<key>A8A00D4B-9A41-496B-82A5-8FE3052DC397</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DC519C82-5BAB-49D1-87A2-3EC374508533</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-04-13-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060653.62902296</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>A8A00D4B-9A41-496B-82A5-8FE3052DC397</string>
+		</dict>
 		<key>A9D94D40-AD21-4231-9884-D39375E92511</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2301,6 +4371,51 @@
 			<key>uniqueIdentifier</key>
 			<string>A9D94D40-AD21-4231-9884-D39375E92511</string>
 		</dict>
+		<key>AC1EC71B-7332-4F29-9F01-CC1F063C9CE5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7376304B-A205-4AA6-A788-F79A32E0B183</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-40-30-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055630.23880005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>AC1EC71B-7332-4F29-9F01-CC1F063C9CE5</string>
+		</dict>
 		<key>AC7FED65-B188-4AF0-B435-774F219D5AD4</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2345,6 +4460,96 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>AC7FED65-B188-4AF0-B435-774F219D5AD4</string>
+		</dict>
+		<key>B40DE0E9-9890-401E-AC8C-8A9B108E6060</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>411FA464-9D85-44D0-948D-A07B786D9B8B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-45-42-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055942.87489402</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>B40DE0E9-9890-401E-AC8C-8A9B108E6060</string>
+		</dict>
+		<key>B5DBA57D-8DDC-436A-980E-AF6C190A5268</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A45AD7D2-9D13-4C3C-A612-B4F38332D756</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-47-09-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059629.35525501</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>B5DBA57D-8DDC-436A-980E-AF6C190A5268</string>
 		</dict>
 		<key>B9D8AF25-3F7E-4BDC-83DC-9D0EC42F8FAE</key>
 		<dict>
@@ -2571,6 +4776,51 @@
 			<key>uniqueIdentifier</key>
 			<string>C1DDD0CD-4165-45B5-A80A-78E5E4BB9FDA</string>
 		</dict>
+		<key>C3E0C127-F67F-450D-9C16-BAC956F5F90D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9382FBAF-ABE7-498F-83E1-C62BFD7DF07F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-39-40-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059180.55758595</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>C3E0C127-F67F-450D-9C16-BAC956F5F90D</string>
+		</dict>
 		<key>C7E23244-9B72-4405-B2D5-B4448E41CE4D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2615,6 +4865,96 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>C7E23244-9B72-4405-B2D5-B4448E41CE4D</string>
+		</dict>
+		<key>C92D0307-2C5B-464D-9D76-65BBE4776F41</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BABCF130-F51B-45B0-A418-84983FFE4F29</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-40-45-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055645.29344499</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>C92D0307-2C5B-464D-9D76-65BBE4776F41</string>
+		</dict>
+		<key>C9750A1B-319C-43EF-B4C1-D822A753B836</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2BE7F773-70C2-4E5A-AD0F-ED4167153BD0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-02-48-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056968.03357804</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>C9750A1B-319C-43EF-B4C1-D822A753B836</string>
 		</dict>
 		<key>CB5A4B9D-1944-475C-9B32-D588F2094400</key>
 		<dict>
@@ -2796,6 +5136,231 @@
 			<key>uniqueIdentifier</key>
 			<string>CC98575F-7ED2-4E05-9C7D-F71EBD6D3290</string>
 		</dict>
+		<key>D11FE7DA-84E8-4D25-96FF-B51030FF0D06</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C8164D41-5DF9-4147-811F-3AABFC1B8543</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-57-51-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056671.03627002</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D11FE7DA-84E8-4D25-96FF-B51030FF0D06</string>
+		</dict>
+		<key>D3A358FD-BD1A-49AE-99E9-560C8CBF5546</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>36DD232E-D22B-4437-B235-EDE240F40B05</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-17-04-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057824.61086404</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D3A358FD-BD1A-49AE-99E9-560C8CBF5546</string>
+		</dict>
+		<key>D44E5128-26A7-4E5C-B364-9D1F6396504D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>70A4F8DB-E485-4746-B8C8-6B7E95836ACF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-00-09-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056809.12127495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D44E5128-26A7-4E5C-B364-9D1F6396504D</string>
+		</dict>
+		<key>D5FFC5AD-7B0C-4E72-98A6-B4691BE55C10</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9E319417-742A-465D-A406-EC0977ED25EA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-04-37-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057077.78554201</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D5FFC5AD-7B0C-4E72-98A6-B4691BE55C10</string>
+		</dict>
+		<key>D71223FA-E73A-49D2-AC60-3062069513A2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F84EA8C0-436E-41E0-B6BF-BC6A223DD62B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-14-39-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057679.90697896</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D71223FA-E73A-49D2-AC60-3062069513A2</string>
+		</dict>
 		<key>D712244C-B865-416C-AB2A-16F7170D0890</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2886,6 +5451,51 @@
 			<key>uniqueIdentifier</key>
 			<string>D75DB611-99B3-425D-9A34-FE428F2B54F8</string>
 		</dict>
+		<key>D8105F36-6753-4436-99CC-91EFAE64FEF6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C0C10A94-57D8-4694-922E-0C6EB802B335</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-01-14-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060474.34915805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>D8105F36-6753-4436-99CC-91EFAE64FEF6</string>
+		</dict>
 		<key>D94B7C1E-C916-4680-BCF7-A320B2B2BB02</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -2930,6 +5540,141 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>D94B7C1E-C916-4680-BCF7-A320B2B2BB02</string>
+		</dict>
+		<key>DA190D2E-DAF7-4767-BAE9-8D47EB5A0D71</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>12A51119-AFF2-4E07-AC5C-E10D11C0094A</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-36-59-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059019.35087502</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>DA190D2E-DAF7-4767-BAE9-8D47EB5A0D71</string>
+		</dict>
+		<key>DB5D8BFA-0316-4CD3-9504-3A30AEC98929</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FA483540-8BE7-4824-8576-401680333DBE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-55-32-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060132.27833104</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>DB5D8BFA-0316-4CD3-9504-3A30AEC98929</string>
+		</dict>
+		<key>DBA065DF-DE53-46BE-A31D-990673C70157</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6BA2EFDD-9BB3-4982-9F5F-76C2FBBC4271</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-03-27-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057007.98256397</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>DBA065DF-DE53-46BE-A31D-990673C70157</string>
 		</dict>
 		<key>E04E0D02-1BAC-4097-BCE5-0E4306E0E51C</key>
 		<dict>
@@ -2976,6 +5721,51 @@
 			<key>uniqueIdentifier</key>
 			<string>E04E0D02-1BAC-4097-BCE5-0E4306E0E51C</string>
 		</dict>
+		<key>E15EF3CE-758B-4244-8B35-5BC9A23DA09B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>89864A4B-F2DD-44A0-A737-CB47462DEE98</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-04-48-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057088.44086003</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E15EF3CE-758B-4244-8B35-5BC9A23DA09B</string>
+		</dict>
 		<key>E3AFC926-3238-4BC1-844E-2117CB98B875</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -3020,6 +5810,456 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>E3AFC926-3238-4BC1-844E-2117CB98B875</string>
+		</dict>
+		<key>E3CFD024-15D9-4242-92D4-FBDB8FBEA6DF</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>85DE5C45-A893-413B-A426-DE2AA37D6E28</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-55-55-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056555.69864297</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E3CFD024-15D9-4242-92D4-FBDB8FBEA6DF</string>
+		</dict>
+		<key>E718F643-5666-4DEC-A576-B0F85402A778</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5127BDA4-3D62-45E8-927D-841EEA1E9337</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-06-31-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057191.19923902</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E718F643-5666-4DEC-A576-B0F85402A778</string>
+		</dict>
+		<key>E7F02932-DBA0-48A2-9D2C-32C4854F161C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>940307FA-060B-4B70-85F8-701D34CCC897</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-58-09-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060289.09557402</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E7F02932-DBA0-48A2-9D2C-32C4854F161C</string>
+		</dict>
+		<key>E817EB67-4B17-4BAE-9610-FC2CC9681CD6</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A5189676-3055-465D-A97B-0D70925BC081</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-03-39-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057019.72905302</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E817EB67-4B17-4BAE-9610-FC2CC9681CD6</string>
+		</dict>
+		<key>E9508AEA-16BE-4E43-96C6-AE1B6AAC185E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4604E6CC-CF34-446A-A985-41338E081BD4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-02-30-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060550.44670403</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E9508AEA-16BE-4E43-96C6-AE1B6AAC185E</string>
+		</dict>
+		<key>E987E265-F84D-4E81-8CF9-274829F0F697</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>913B1D2B-2593-4EDF-A5D5-1147C7D85E80</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-37-28-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059048.77519906</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>E987E265-F84D-4E81-8CF9-274829F0F697</string>
+		</dict>
+		<key>EA86628F-D7D8-4FCF-91EC-BF72027B4880</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>F800D30A-E8FF-41B0-87FF-5BCF8A3E07B3</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-55-25-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060125.11308706</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>EA86628F-D7D8-4FCF-91EC-BF72027B4880</string>
+		</dict>
+		<key>EC51E6DC-1C0E-4AFE-BD47-AFDF90836A4E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>171E5EF9-2FA4-44AF-85C1-1D0537BA068B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-53-03-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056383.87892103</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>EC51E6DC-1C0E-4AFE-BD47-AFDF90836A4E</string>
+		</dict>
+		<key>EDAB2CF7-671D-48E9-84C9-FE871772D1C7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FDA8B090-F314-4497-9A6B-D064BE36E751</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-03-52-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057032.01957905</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>EDAB2CF7-671D-48E9-84C9-FE871772D1C7</string>
+		</dict>
+		<key>EF0895C5-9B1D-4C94-AE81-47EA2596220F</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D3C804AF-594C-48BC-9327-330BA4C07230</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-54-56-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060096.28744805</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>EF0895C5-9B1D-4C94-AE81-47EA2596220F</string>
 		</dict>
 		<key>EFDF39F3-0986-4098-8843-00826465E3B8</key>
 		<dict>
@@ -3066,6 +6306,141 @@
 			<key>uniqueIdentifier</key>
 			<string>EFDF39F3-0986-4098-8843-00826465E3B8</string>
 		</dict>
+		<key>F120F27E-D67A-44EE-A19A-D40BDDAB1A36</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>59DAF483-82E1-4164-BCAC-230B8E965C8D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-42-39-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055759.40341997</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F120F27E-D67A-44EE-A19A-D40BDDAB1A36</string>
+		</dict>
+		<key>F152F949-EDEA-4D2B-AA90-56466A6B58F2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>71A05E86-A5BB-4171-A7CC-A455BA0E1A9C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-39-14-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710055554.702685</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F152F949-EDEA-4D2B-AA90-56466A6B58F2</string>
+		</dict>
+		<key>F299A0DB-D2FD-4205-BC1B-02D146ADCA73</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0D45789E-909C-42AB-B5B8-4BA1FCB8EE59</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-06-03-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060763.78998995</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F299A0DB-D2FD-4205-BC1B-02D146ADCA73</string>
+		</dict>
 		<key>F3A50D8F-090B-4DCD-A326-B3BB4D5796F5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -3111,6 +6486,141 @@
 			<key>uniqueIdentifier</key>
 			<string>F3A50D8F-090B-4DCD-A326-B3BB4D5796F5</string>
 		</dict>
+		<key>F5CA6511-BCD4-4D35-B655-D19D7888BF44</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FBA7A6EE-14D7-482F-B6C3-4201B7C906BD</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-54-35-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710060075.87810504</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F5CA6511-BCD4-4D35-B655-D19D7888BF44</string>
+		</dict>
+		<key>F7023475-B5A0-4429-8521-8DDEA145B7A5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8951BFAD-4904-485E-936E-AEF5626855A8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-41-06-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710059266.45095396</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F7023475-B5A0-4429-8521-8DDEA145B7A5</string>
+		</dict>
+		<key>F82F0AE5-4C33-421F-B5D7-A2699F9DB7CB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C5D64D2A-F746-4D4A-879D-222A98976CEA</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-04-58-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710057098.05861998</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>F82F0AE5-4C33-421F-B5D7-A2699F9DB7CB</string>
+		</dict>
 		<key>FA4D614C-F867-4E75-A7D0-B1948D103AFD</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -3155,6 +6665,96 @@
 			<string>Run NextToGo</string>
 			<key>uniqueIdentifier</key>
 			<string>FA4D614C-F867-4E75-A7D0-B1948D103AFD</string>
+		</dict>
+		<key>FC6ECBC4-6D9A-4F46-9B3F-61F06E1917DE</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>988F7B88-5C50-4BC5-9E8D-C7BFB7F12C45</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_15-58-08-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056688.18649304</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>FC6ECBC4-6D9A-4F46-9B3F-61F06E1917DE</string>
+		</dict>
+		<key>FD231E02-C83D-4DFB-AC2C-0F4CA10BCF91</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>95ED7212-8335-4A89-BFC2-599ECF1A3B87</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_16-02-01-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710056921.07853103</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>FD231E02-C83D-4DFB-AC2C-0F4CA10BCF91</string>
 		</dict>
 	</dict>
 </dict>

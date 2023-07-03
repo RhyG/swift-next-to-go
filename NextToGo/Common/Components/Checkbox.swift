@@ -10,7 +10,7 @@ import SwiftUI
 struct Checkbox: View {
     var isChecked: Bool
     var categoryId: Constants.CategoryID
-//    
+ 
     var action: () -> Void
     
     var body: some View {
@@ -19,6 +19,8 @@ struct Checkbox: View {
         } label: {
             HStack {
                 Image(systemName: isChecked ? "square.fill" : "square")
+                    .resizable()
+                    .frame(width: 25, height: 25)
                 CategoryIcon(categoryId: categoryId.rawValue)
             }
         }
@@ -29,14 +31,6 @@ struct Checkbox: View {
 struct Checkbox_Previews: PreviewProvider {
     static var previews: some View {
         VStack {
-            //            Checkbox(isChecked: .constant(true), icon: "icon-horse")
-            //                    .previewLayout(.sizeThatFits)
-            //                    .padding()
-            //
-            //                Checkbox(isChecked: .constant(false), icon: "icon-harness")
-            //                    .previewLayout(.sizeThatFits)
-            //                    .padding()
-            //            }
             Text("WOW")
         }
     }

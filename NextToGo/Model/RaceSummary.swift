@@ -48,7 +48,7 @@ struct RaceSummary: Codable {
 }
 
 struct AdvertisedStart: Codable {
-    let seconds: Int
+    let seconds: Double
 }
 
 struct RaceForm: Codable {

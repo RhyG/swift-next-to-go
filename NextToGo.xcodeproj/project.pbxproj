@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9890EA9D2A46978A001FCA4B /* NextToGoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EA9C2A46978A001FCA4B /* NextToGoApp.swift */; };
-		9890EA9F2A46978A001FCA4B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EA9E2A46978A001FCA4B /* ContentView.swift */; };
 		9890EAA12A46978B001FCA4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9890EAA02A46978B001FCA4B /* Assets.xcassets */; };
 		9890EAA42A46978B001FCA4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9890EAA32A46978B001FCA4B /* Preview Assets.xcassets */; };
 		9890EAAC2A4697E3001FCA4B /* ShapeStyle+Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EAAB2A4697E3001FCA4B /* ShapeStyle+Color.swift */; };
@@ -19,12 +18,13 @@
 		9890EABC2A46CBD7001FCA4B /* NextToGoRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EABB2A46CBD7001FCA4B /* NextToGoRowView.swift */; };
 		9890EABE2A46CF99001FCA4B /* NextToGoListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EABD2A46CF99001FCA4B /* NextToGoListViewModel.swift */; };
 		9890EAC12A4811FD001FCA4B /* CategoryIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EAC02A4811FD001FCA4B /* CategoryIcon.swift */; };
+		9890EAC32A52937E001FCA4B /* ClockTickEmitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EAC22A52937E001FCA4B /* ClockTickEmitter.swift */; };
+		9890EAC52A52950B001FCA4B /* RaceCountdownTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9890EAC42A52950B001FCA4B /* RaceCountdownTimer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9890EA992A46978A001FCA4B /* NextToGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NextToGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9890EA9C2A46978A001FCA4B /* NextToGoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextToGoApp.swift; sourceTree = "<group>"; };
-		9890EA9E2A46978A001FCA4B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9890EAA02A46978B001FCA4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9890EAA32A46978B001FCA4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9890EAAB2A4697E3001FCA4B /* ShapeStyle+Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ShapeStyle+Color.swift"; sourceTree = "<group>"; };
@@ -36,6 +36,8 @@
 		9890EABD2A46CF99001FCA4B /* NextToGoListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextToGoListViewModel.swift; sourceTree = "<group>"; };
 		9890EABF2A46D60C001FCA4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		9890EAC02A4811FD001FCA4B /* CategoryIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryIcon.swift; sourceTree = "<group>"; };
+		9890EAC22A52937E001FCA4B /* ClockTickEmitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockTickEmitter.swift; sourceTree = "<group>"; };
+		9890EAC42A52950B001FCA4B /* RaceCountdownTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceCountdownTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +76,6 @@
 				9890EAB12A4698D7001FCA4B /* View */,
 				9890EAAA2A4697D3001FCA4B /* Common */,
 				9890EA9C2A46978A001FCA4B /* NextToGoApp.swift */,
-				9890EA9E2A46978A001FCA4B /* ContentView.swift */,
 				9890EAA02A46978B001FCA4B /* Assets.xcassets */,
 				9890EAA22A46978B001FCA4B /* Preview Content */,
 			);
@@ -111,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				9890EAAF2A4698C3001FCA4B /* Constants.swift */,
+				9890EAC22A52937E001FCA4B /* ClockTickEmitter.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -145,6 +147,7 @@
 				9890EAB92A469BE9001FCA4B /* Checkbox.swift */,
 				9890EABB2A46CBD7001FCA4B /* NextToGoRowView.swift */,
 				9890EAC02A4811FD001FCA4B /* CategoryIcon.swift */,
+				9890EAC42A52950B001FCA4B /* RaceCountdownTimer.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -219,7 +222,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9890EA9F2A46978A001FCA4B /* ContentView.swift in Sources */,
+				9890EAC52A52950B001FCA4B /* RaceCountdownTimer.swift in Sources */,
 				9890EAB52A4698FF001FCA4B /* NextToGoView.swift in Sources */,
 				9890EAC12A4811FD001FCA4B /* CategoryIcon.swift in Sources */,
 				9890EAAC2A4697E3001FCA4B /* ShapeStyle+Color.swift in Sources */,
@@ -228,6 +231,7 @@
 				9890EABA2A469BE9001FCA4B /* Checkbox.swift in Sources */,
 				9890EABE2A46CF99001FCA4B /* NextToGoListViewModel.swift in Sources */,
 				9890EAB72A469913001FCA4B /* RaceSummary.swift in Sources */,
+				9890EAC32A52937E001FCA4B /* ClockTickEmitter.swift in Sources */,
 				9890EAB02A4698C3001FCA4B /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

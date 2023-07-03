@@ -15,6 +15,26 @@ struct APIResponse: Codable {
 class NextToGoListViewModel: ObservableObject {
     @Published var nextToGoResponse: APIResponse? = nil
     @Published var activeFilters: [Constants.CategoryID] = []
+    
+    private var poll: Timer?
+    private var fetchRacesTask: Task<Void, Error>?
+    
+    init() {
+        fetchRacesTask = Task {
+            await self.fetchRaces()
+        }
+        
+        poll = Timer.scheduledTimer(withTimeInterval: 30, repeats: true) { [weak self] _ in
+            self?.fetchRacesTask = Task {
+                await self?.fetchRaces()
+            }
+        }
+    }
+    
+    deinit {
+        poll?.invalidate()
+        fetchRacesTask?.cancel()
+    }
 
     func toggleFilter(_ filterId: Constants.CategoryID) {
        if let index = activeFilters.firstIndex(of: filterId) {
@@ -23,8 +43,10 @@ class NextToGoListViewModel: ObservableObject {
            activeFilters.append(filterId)
        }
    }
+    
+    var x: [RaceSummary] = []
 
-    var nextToGoRaces: [RaceSummary] {
+    private var nextToGoRaceData: [RaceSummary] {
         var raceSummaries = [RaceSummary]()
 
         let races = nextToGoResponse?.data.raceSummaries ?? [:]
@@ -37,17 +59,37 @@ class NextToGoListViewModel: ObservableObject {
     }
 
     var filteredRaces: [RaceSummary] {
-        var filtered: [RaceSummary] = []
+        var filteredRaces: [RaceSummary] = []
 
         if activeFilters.count >= 1 {
-            filtered = nextToGoRaces.filter { race in
+            filteredRaces = nextToGoRaceData.filter { race in
                 activeFilters.contains(race.categoryId)
             }
         } else {
-            filtered = nextToGoRaces
+            filteredRaces = nextToGoRaceData
         }
-
-        return filtered
+        
+        return sortByStartTime(filteredRaces)
+    }
+    
+    private func sortByStartTime(_ races: [RaceSummary]) -> [RaceSummary] {
+        return races.sorted {
+            $1.advertisedStart.seconds > $0.advertisedStart.seconds
+        }
+    }
+    
+    private func removeJumped(_ races: [RaceSummary]) -> [RaceSummary] {
+        var filteredRaces: [RaceSummary] = [];
+        
+        races.forEach { race in
+            let jumpTime = Date(timeIntervalSince1970: race.advertisedStart.seconds)
+            
+            if jumpTime < Date(timeIntervalSince1970: race.advertisedStart.seconds + 60) {
+                filteredRaces.append(race)
+            }
+        }
+        
+        return filteredRaces
     }
 
     @Sendable func fetchRaces() async {
@@ -64,7 +106,7 @@ class NextToGoListViewModel: ObservableObject {
 
             let decodedResponse = try JSONDecoder().decode(APIResponse.self, from: data)
             
-            DispatchQueue.main.async {
+            await MainActor.run {
                 self.nextToGoResponse = decodedResponse
             }
             
