@@ -3876,6 +3876,51 @@
 			<key>uniqueIdentifier</key>
 			<string>8F13D36C-6814-4CCC-937B-D8D91B9247CE</string>
 		</dict>
+		<key>8FFE0E3C-B926-449E-A897-FD6CFC9888B0</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>025179A2-364E-42DD-8916-4DA052F0AE03</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-NextToGo-2023.07.03_17-22-05-+1000.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710061725.24550998</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>8FFE0E3C-B926-449E-A897-FD6CFC9888B0</string>
+		</dict>
 		<key>90DE73B2-CD89-4F49-AC65-1E0DA2F269A2</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>

@@ -8268,6 +8268,40 @@
 			<key>uniqueIdentifier</key>
 			<string>913B1D2B-2593-4EDF-A5D5-1147C7D85E80</string>
 		</dict>
+		<key>926F2435-C19C-42D0-B385-60543DB23B5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>926F2435-C19C-42D0-B385-60543DB23B5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NextToGo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NextToGo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NextToGo</string>
+			<key>timeStartedRecording</key>
+			<real>710061991.14917099</real>
+			<key>timeStoppedRecording</key>
+			<real>710061992.58758795</real>
+			<key>title</key>
+			<string>Build NextToGo</string>
+			<key>uniqueIdentifier</key>
+			<string>926F2435-C19C-42D0-B385-60543DB23B5A</string>
+		</dict>
 		<key>92DD3B41-FCAB-4DB3-887B-9D0D54C63493</key>
 		<dict>
 			<key>className</key>

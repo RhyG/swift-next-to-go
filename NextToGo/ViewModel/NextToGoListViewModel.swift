@@ -43,10 +43,8 @@ class NextToGoListViewModel: ObservableObject {
            activeFilters.append(filterId)
        }
    }
-    
-    var x: [RaceSummary] = []
 
-    private var nextToGoRaceData: [RaceSummary] {
+    var nextToGoRaceData: [RaceSummary] {
         var raceSummaries = [RaceSummary]()
 
         let races = nextToGoResponse?.data.raceSummaries ?? [:]
@@ -69,16 +67,17 @@ class NextToGoListViewModel: ObservableObject {
             filteredRaces = nextToGoRaceData
         }
         
-        return sortByStartTime(filteredRaces)
+        let filteredByJumpTime = removeJumped(filteredRaces)
+        return sortByStartTime(filteredByJumpTime)
     }
     
-    private func sortByStartTime(_ races: [RaceSummary]) -> [RaceSummary] {
+    func sortByStartTime(_ races: [RaceSummary]) -> [RaceSummary] {
         return races.sorted {
             $1.advertisedStart.seconds > $0.advertisedStart.seconds
         }
     }
     
-    private func removeJumped(_ races: [RaceSummary]) -> [RaceSummary] {
+    func removeJumped(_ races: [RaceSummary]) -> [RaceSummary] {
         var filteredRaces: [RaceSummary] = [];
         
         races.forEach { race in
